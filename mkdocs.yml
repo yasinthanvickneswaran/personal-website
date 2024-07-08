@@ -25,3 +25,9 @@ theme:
       name: Switch to light mode
     primary: light blue
     accent: cyan
+
+nav:
+  - Overview: 'index.md'
+  - Module A: 'Mod_A.md'
+  - Module B: 'Mod_B.md'
+  - Module C: 'Mod_C.md'
